@@ -1,0 +1,12 @@
+.descrip{
+    font-style: italic;
+    font-weight: bolder;
+    color: black;
+}
+
+.ti{
+    font-size: 80px;
+    font-style: oblique;
+    font-weight: bold;
+    color: rgb(5, 5, 5);
+}
